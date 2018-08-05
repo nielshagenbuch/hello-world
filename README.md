@@ -1,5 +1,5 @@
 # hello-world
-Exercise from github guide
+Exercise  github guide
 
 
 Edit bla bla bla.
